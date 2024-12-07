@@ -88,6 +88,7 @@ function exibirTabela(data) {
         return;
     }
 
+    // uso de map
     const tabela = `
         <table class="table table-bordered">
             <thead>
