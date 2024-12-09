@@ -52,7 +52,7 @@ body {
     margin-bottom: 20px;
 }
 
-#resultado, #resultadoPais {
+#resultado, #infoPais {
     font-style: italic;
     color: #666;
 }
